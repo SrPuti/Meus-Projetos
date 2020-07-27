@@ -1,0 +1,7 @@
+name: HorusEconomy
+main: me.king.money.Main
+version: 1.0.0
+author: [SrPuti_]
+commands:
+  money:
+  magnata:

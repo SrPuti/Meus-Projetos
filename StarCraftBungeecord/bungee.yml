@@ -1,0 +1,4 @@
+name: StarCraftBungeecord
+version: 1.0
+main: me.strangerdev.bungeecord.Main
+author: [StrangerDev]

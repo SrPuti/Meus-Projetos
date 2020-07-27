@@ -1,0 +1,14 @@
+########################
+# MadeonMC-RankupHeads #
+#  ------------------  #
+#  Feito por: SrPuti_  #   
+########################
+
+#Deseja que os fiquem imovéis?
+Mob: true
+
+#Preenchar o dados do mysql do servidor abaixo;
+Ip: 'localhost'
+Data_base: 'King_ServidoresTESTE'
+User: 'root'
+Senha: ''

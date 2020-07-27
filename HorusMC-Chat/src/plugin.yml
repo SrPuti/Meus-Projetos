@@ -1,0 +1,12 @@
+name: HorusChat
+main: me.king.chat.Main
+version: 1.0.0
+author: [SrPuti_]
+commands:
+  tell:
+  l:
+  g:
+  chat:
+  toggletell:
+  mutar:
+  desmutar:
